@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://mastodon.ml/web/accounts/2410](https://mastodon.ml/web/accounts/2410)
 
-- 💬 Ask me about **Python, Rust, Java**
+- 💬 Ask me about **Python, Java, Rust**
 
 - 📫 How to reach me **fl4ckyp@gmail.com**
 
