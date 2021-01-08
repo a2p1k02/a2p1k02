@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A beginner developer from Russia</h3>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2p1k02&show_icons=true&locale=en&layout=compact" alt="a2p1k02" /></p>
+
 - 📝 I regularly write articles on [https://mastodon.ml/web/accounts/2410](https://mastodon.ml/web/accounts/2410)
 
 - 💬 Ask me about **Python, Rust, Java**
@@ -23,7 +25,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/a2p1k02"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="a2p1k02" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2p1k02&show_icons=true&locale=en&layout=compact" alt="a2p1k02" /></p>
 
 <p><a href="https://liberapay.com/a2p1k02/donate"> <img align="left" src="https://liberapay.com/assets/widgets/donate.svg" alt="a2p1k02" /></a></p><br>
