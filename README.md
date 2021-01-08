@@ -26,4 +26,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/a2p1k02"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="a2p1k02" /></a></p><br><br>
 
-<p><a href="https://liberapay.com/a2p1k02/donate"> <img align="left" src="https://liberapay.com/assets/widgets/donate.svg" alt="a2p1k02" /></a></p><br>
+<p><a href="https://liberapay.com/a2p1k02/donate"> <img align="left" src="https://liberapay.com/assets/widgets/donate.svg" alt="a2p1k02" /></a></p><br><br>
