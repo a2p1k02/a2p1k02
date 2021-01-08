@@ -3,13 +3,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2p1k02&show_icons=true&locale=en&layout=compact" alt="a2p1k02" /></p>
 
-- 📝 I regularly write articles on [https://mastodon.ml/web/accounts/2410](https://mastodon.ml/web/accounts/2410)
+- 👨‍💻 [My site](https://a2p1k02.github.io/)
+
+- 📝 I regularly write articles on [Blog](https://mastodon.ml/web/accounts/2410)
 
 - 💬 Ask me about **Python, Rust, Java**
 
 - 📫 How to reach me **fl4ckyp@gmail.com**
 
-- :wedding: [**My site!**](https://a2p1k02.github.io/)
+- 📄 Know about my experiences [My Resume](https://career.habr.com/a2p1k02)
 
 - ⚡ Fun fact **I'm Russian**
 
