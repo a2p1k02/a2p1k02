@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A beginner developer from Russia</h3>
 
-- 👨‍💻 All of my projects are available at [https://a2p1k02.github.io/](https://a2p1k02.github.io/)
 
-- 📝 I regularly write articles on [https://mastodon.ml/web/accounts/2410](https://mastodon.ml/web/accounts/2410)
-
-- 💬 Ask me about **Python, Rust, Java**
+- 💬 Ask me about **HTML, CSS3, Bootstrap, JavaScript, Vue.js**
 
 - 📫 How to reach me **fl4ckyp@gmail.com**
 
