@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fl4ckyp@gmail.com**
 
-- 📄 Know about my experiences [https://career.habr.com/a2p1k02](https://career.habr.com/a2p1k02)
+- 📄 Know about my experiences **[click](https://career.habr.com/a2p1k02)**
 
 - ⚡ Fun fact **I'm Russian**
 
