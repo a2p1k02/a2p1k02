@@ -5,7 +5,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2p1k02&show_icons=true&locale=en&layout=compact" alt="a2p1k02" /></p>
 
 
-- 💬 Ask me about **HTML, CSS3, Bootstrap, JavaScript, Vue.js**
+- 💬 Ask me about **Web, C/C++, Java, Python, Rust**
 
 - 📫 How to reach me **fl4ckyp@gmail.com**
 
