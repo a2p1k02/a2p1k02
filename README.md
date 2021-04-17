@@ -3,7 +3,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2p1k02&show_icons=true&theme=dark&locale=en&layout=compact" alt="a2p1k02" /></p>
 
-- 👨‍💻 All of my projects are available at [https://a2p1k02.github.io/](https://a2p1k02.github.io/)
 
 - 📝 I regularly write articles on [https://mastodon.ml/web/accounts/2410](https://mastodon.ml/web/accounts/2410)
 
