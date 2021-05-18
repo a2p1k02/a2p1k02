@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A beginner developer from Russia</h3>
+<h3 align="center">Beginner Game Developer</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2p1k02&show_icons=true&theme=dark&locale=en&layout=compact" alt="a2p1k02" /></p>
 
