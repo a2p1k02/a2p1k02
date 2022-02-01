@@ -6,9 +6,9 @@
 
 - 📝 I regularly write articles on [https://mastodon.ml/web/accounts/2410](https://mastodon.ml/web/accounts/2410)
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C** or **Java**
 
-- 📫 How to reach me **fl4ckyp@gmail.com**
+- 📫 How to reach me **petrovbick@gmail.com**
 
 - 📄 Know about my experiences [https://career.habr.com/a2p1k02](https://career.habr.com/a2p1k02)
 
