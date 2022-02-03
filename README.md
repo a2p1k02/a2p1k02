@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">Junior C Developer</h3>
+<h3 align="center">Junior Java Developer</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2p1k02&show_icons=true&theme=dark&locale=en&layout=compact" alt="a2p1k02" /></p>
 
 
 - 📝 I regularly write articles on [https://mastodon.ml/web/accounts/2410](https://mastodon.ml/web/accounts/2410)
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **petrovbick@gmail.com**
 
