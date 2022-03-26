@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">Rust Developer</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2p1k02&show_icons=true&theme=dark&locale=en&layout=compact" alt="a2p1k02" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2p1k02&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 📝 I regularly write articles on [https://mastodon.ml/web/accounts/2410](https://mastodon.ml/web/accounts/2410)
