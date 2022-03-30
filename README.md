@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://mastodon.ml/web/accounts/2410](https://mastodon.ml/web/accounts/2410)
 
-- 💬 Ask me about **Rust**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **petrovbick@gmail.com**
 
