@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">C++ Developer</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2p1k02&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 💬 Ask me about **C++/Python/Java**
+- 💬 Ask me about **C and C++**
 
 - 📫 How to contact me **petrovbick@gmail.com**
 
