@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">C++ Developer</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2p1k02&layout=compact&show_icons=true&theme=dark)](https://github.com/a2p1k02?tab=repositories)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2p1k02&layout=compact&show_icons=true&theme=dark)](https://github.com/a2p1k02?tab=repositories)
 
 - 💬 Ask me about **C++**
 
 - 📫 How to contact me **petrovbick@gmail.com**
 
 - 📄 Know about my experiences [https://career.habr.com/a2p1k02](https://career.habr.com/a2p1k02)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +19,8 @@
 </p>
 
 <h3 align="left">Other tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/a2p1k02"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="a2p1k02" /></a></p><br><br><br>
