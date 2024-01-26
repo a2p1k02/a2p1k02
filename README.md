@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">Rust/C++ Developer</h3>
+<h3 align="center">Rust/C++ Developer</h3><br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2p1k02&layout=compact&show_icons=true&theme=dark)](https://github.com/a2p1k02?tab=repositories)
+<a href="https://github.com/a2p1k02?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=a2p1k02&theme=tokyonight&show_icons=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2p1k02&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true" />
+</a>
 
 - 💬 Ask me about **C++**, **Rust**
 
