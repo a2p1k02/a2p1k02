@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/emacs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" width="40" height="40"/></a>
   <a href="https://www.vulkan.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Vulkan.svg" alt="vulkan" width="40" height="40"/></a>
 </p>
