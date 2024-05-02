@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
-<h1 align="center">嗨 👋, 我是钟宁</h1>
+<h1 align="center">Hi 👋, I'm Alexander - 嗨 👋, 我是钟宁</h1>
 <h3 align="center">Rust/C++ Developer</h3><br>
 
 <p align="center">
