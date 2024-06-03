@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander - 嗨 👋, 我是钟宁</h1>
-<h3 align="center">Rust/C++ Developer</h3><br>
+<h3 align="center">C/C++/Rust Developer</h3><br>
 
 <p align="center">
   <a href="https://github.com/a2p1k02?tab=repositories">
