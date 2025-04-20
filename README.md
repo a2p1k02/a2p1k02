@@ -10,9 +10,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://dev.to/a2p1k02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="a2p1k02" height="30" width="40"/></a>
   <a href="https://linkedin.com/in/a2p1k02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="a2p1k02" height="30" width="40"/></a>
-  <a href="https://instagram.com/a2p1k02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="a2p1k02" height="30" width="40"/></a>
   <a href="https://discord.gg/a2p1k02#2340" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="a2p1k02#2340" height="30" width="40"/></a>
   <a href="https://t.me/a2p1k02" target="blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="a2p1k02#2340" height="30" width="40"/></a>
 </p>
