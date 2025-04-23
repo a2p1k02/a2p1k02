@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">I'm a software engineer</h3>
-<h3 align="center">I'm into the Rust programming language </h3><br>
+<h3 align="center">I'm into the Rust and C++ programming language </h3><br>
 
 <p align="center">
   <a href="https://github.com/a2p1k02?tab=repositories">
