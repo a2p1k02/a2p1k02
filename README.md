@@ -9,6 +9,19 @@
   </a>
 </p>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://discord.gg/a2p1k02#2340" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=61604&format=png&color=000000" alt="a2p1k02#2340" height="50" width="50"/></a>
+  <a href="https://t.me/a2p1k02" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" alt="a2p1k02#2340" height="50" width="50"/></a>
+</p>
+
+<h3 align="center">Other tools:</h3>
+<p align="center">
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000" alt="rust" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" alt="linux" width="50" height="50"/></a>
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="c++" width="50" height="50"/></a>
+</p>
+
 ```rust
 fn main() {
     let hello = [72, 101, 108, 108, 111, 44, 32, 87, 111, 114, 108, 100, 33]
@@ -31,16 +44,3 @@ int main() {
     return 0;
 }
 ```
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://discord.gg/a2p1k02#2340" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=61604&format=png&color=000000" alt="a2p1k02#2340" height="50" width="50"/></a>
-  <a href="https://t.me/a2p1k02" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" alt="a2p1k02#2340" height="50" width="50"/></a>
-</p>
-
-<h3 align="center">Other tools:</h3>
-<p align="center">
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000" alt="rust" width="50" height="50"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" alt="linux" width="50" height="50"/></a>
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="c++" width="50" height="50"/></a>
-</p>
